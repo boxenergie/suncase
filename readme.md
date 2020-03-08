@@ -1,5 +1,6 @@
 
-<h1>SunCase</h1> : le premier boitier pour la boxenergie
+<h1>SunCase</h1> 
+<h3><i>le premier boitier pour la boxenergie</i></h3>
 Des plans pour un boitier en bois 
 
 Créé par Arthur MOREAU en Mars 2020, pour la boxénergie de SunShare (https://sunshare.fr/boxenergie)
