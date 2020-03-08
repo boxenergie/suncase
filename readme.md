@@ -3,6 +3,9 @@
 <h3><i>le premier boitier pour la boxenergie</i></h3>
 Des plans pour un boitier en bois 
 
+
+<p align="center"> <a rel="boxenergie" href="http://sunshare.fr/boxenergie"><img width="150" alt="boxenergie logo" src="https://user-images.githubusercontent.com/49123814/76170900-b21d5480-6186-11ea-924d-9f0393dd1df3.png"></a> </p>
+
 Créé par Arthur MOREAU en Mars 2020, pour la boxénergie de SunShare (https://sunshare.fr/boxenergie)
 
 License
